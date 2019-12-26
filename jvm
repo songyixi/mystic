@@ -1,0 +1,1 @@
+dump内存堆栈  jmap -dump:format=b,file=/tmp/heap.bin 进程ID
